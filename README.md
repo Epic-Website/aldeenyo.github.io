@@ -1,2 +1,0 @@
-# aldeenyo.github.io
-Rekt
