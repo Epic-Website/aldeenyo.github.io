@@ -19,7 +19,7 @@ function color() {
 		}else if (yeetus == "yellow") {
 			document.getElementById("ugly").style.display = '';
 			document.body.style.backgroundImage='none';
-			document.body.style.backgroundColor = "yellow";
+			document.body.style.backgroundColor = "#aaaa00";
 		}else if (yeetus == "orange") { 
 			document.getElementById("ugly").style.display = '';
 			document.body.style.backgroundImage='none';
