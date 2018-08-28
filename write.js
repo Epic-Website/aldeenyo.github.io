@@ -1,5 +1,5 @@
 ﻿function goback() {
-    window.location.href = 'pleasework.html';
+    window.location.href = 'index.html';
 }
 
 function stopclick() {
