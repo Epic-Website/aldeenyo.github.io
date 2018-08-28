@@ -52,8 +52,7 @@ function idiotTest() {
 	}else if (lol == "wait don't do it its not worth it") { alert("okay nevermind, since you asked so nicely.")
 	}else if (lol == "No") { alert("wait, you've decieved me! NO NOT THIS AGAIN")
 	}else if (lol == "no") { alert("wait, you've decieved me! NO NOT THIS AGAIN")
-	}else if (lol == "password") { alert("ine2... Wait... You are not allowed to know that!")
-	}else if (lol == "please tell me") {  alert ( "look what you've done!") (document.body.style.backgroundColor = "black")
+	}else if (lol == "password") { alert("Brendand I know you're cheating") ( "look what you've done!") (document.body.style.backgroundColor = "black")
 	}else if (lol == "because i love you") { alert( "haha thats nice of you, but still, no password")
 	}else if (lol == "ill give you a cookie") {alert( "i am kinda hungry... okay the first three letters are i, n, e.")
 	}else{
